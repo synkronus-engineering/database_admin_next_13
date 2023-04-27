@@ -1,0 +1,27 @@
+name: 'Migrate database schema'
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  migrate-database:
+    name: Run Flyway migrations
+    runs-on: ubuntu-20.04
+    env:
+      SUPABASE_HOST: db.hiveznmewgxqdpwwabrn.supabase.co
+      SUPABASE_PORT: 5432
+      SUPABASE_USER: postgres
+      SUPABASE_DB: postgres
+    steps:
+      - uses: actions/checkout@v2
+      - run: >-
+          docker run --rm
+          --volume ${{ github.workspace }}/migrations:/flyway/sql:ro
+          flyway/flyway:latest-alpine
+          -url="jdbc:postgresql://${{ env.SUPABASE_HOST }}:${{ env.SUPABASE_PORT }}/${{ env.SUPABASE_DB }}?sslmode=require"
+          -user="${{ env.SUPABASE_USER }}"
+          -password="${{ secrets.PRODUCTION_DB_PASSWORD }}"
+          -baselineOnMigrate=true 
+          migrate
