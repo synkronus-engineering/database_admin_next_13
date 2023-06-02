@@ -1,3 +1,5 @@
+## Course Code for [Building Full stack application with NextJs 13+](https://www.udemy.com/course/fullstack-nextjs-13-recoil-supabase)
+
 ## Handing supabase migration with migra tool
 
 - https://supabase.com/blog/supabase-cli#migrations
@@ -27,12 +29,12 @@
 at integrated terminal set:
 
 - alias migra="docker run djrobstep/migra migra"
-- migra  [db_url_from] [db_url_target] --unsafe  > file_name.sql
+- migra  [db_url_target] [db_url_from] --unsafe  > file_name.sql
 - db_url_from can find it at **Settings -> Database**
 - file_name.sql  must follow flyway naming convesion.
 - example cmd :
 
-  - migra postgresql://postgres:[YOUR-PASSWORD-DEV]@db.[ID_DATABASE_FROM].supabase.co:5432/postgres postgresql://postgres:[YOUR-PASSWORD-PROD]@db.[ID_DATABASE_TARGET].supabase.co:5432/postgres --unsafe  > migrations/V1__getting_started_from_dev.sql
+  - migra postgresql://postgres:[YOUR-PASSWORD-PROD]@db.[ID_DATABASE_TARGET].supabase.co:5432/postgres postgresql://postgres:[YOUR-PASSWORD-DEV]@db.[ID_DATABASE_FROM].supabase.co:5432/postgres --unsafe  > migrations/V1__getting_started_from_dev.sql
 
 # Github actions
 
