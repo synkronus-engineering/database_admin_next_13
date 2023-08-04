@@ -1,0 +1,265 @@
+id,user_id,title,content,views,likes,created_at,image_src,category,sort_description,author
+4,84be6cb8-bc8e-4fb3-8d10-cded5b90d855,Meta Enters The AI Race With An “Open” Approach,"<p>Onthe heels of a&nbsp;<a rel=""noopener"" href=""https://medium.com/ipg-media-lab/threads-is-an-overnight-success-now-what-6d3e18987a9e"">successful launch of Threads</a>, Meta released another important product last week that has garnered much less attention by comparison, but one that could prove to have a huge impact on consumer technology down the road. The product in question? Llama 2, the newest version of Meta&rsquo;s large language model.</p>
+<p>So far, the development of consumer-facing generative AI has been a two-horse race between Google and Microsoft, the latter of which benefited greatly from its early investments in and close partnership with OpenAI, the company behind ChatGPT, whose viral adoption kicked off this current round of AI frenzy.</p>
+<p>With the arrival of Llama 2, the competitive landscape of generative AI might start to shift from primarily &ldquo;Microsoft vs. Google&rdquo; to a showdown between two different development models &mdash; Open Source vs. Closed. Up until now, the competition has been primarily between Microsoft and Google, both favoring a closed model. However, the open-source nature of Llama 2 could attract new players to the field and contribute to a more diverse and competitive market. This could accelerate the development of consumer-facing AI applications and ultimately benefit consumers.</p>
+<h1><strong>What Makes Llama 2 Special</strong></h1>
+<p>Llama stands for Large Language Model Meta AI. As its name suggests, it is a large language model (LLM) created by Meta; the first edition was officially released in February 2023 not as a public chatbot (a la ChatGPT), but as an open-source package that anyone in the AI community can request access to. A week after, however, the entire model&nbsp;<a href=""https://www.theverge.com/2023/3/8/23629362/meta-ai-language-model-llama-leak-online-misuse"" rel=""noopener ugc nofollow"" target=""_blank"">was leaked online</a> and spread across various AI developer communities. But as a &ldquo;raw&rdquo; LLM model, Llama has not been &ldquo;fine-tuned&rdquo; for conversations like ChatGPT or Bing has, which means that average users wouldn&rsquo;t be able to use it even if they downloaded a leak. Nevertheless, the leak sparked some questions about Meta&rsquo;s role in the generative AI space.</p>
+<p>Fast forward to last week, on July 18,&nbsp;<a href=""https://about.fb.com/news/2023/07/llama-2/"" rel=""noopener ugc nofollow"" target=""_blank"">Meta announced Llama 2</a> in partnership with Microsoft. According to Meta, Llama 2 was trained on 40 percent more data when compared to Llama 1, which includes information from &ldquo;publicly available online data sources.&rdquo; AI researchers have found that when compared to GPT-4, the latest LLM by OpenAI, Llama 2&nbsp;<a href=""https://analyticsindiamag.com/llama-2-vs-gpt-4-vs-claude-2/"" rel=""noopener ugc nofollow"" target=""_blank"">excels at writing texts</a> and is&nbsp;<a href=""https://www.cloudbooklet.com/llama-2-vs-gpt-4/#conclusion"" rel=""noopener ugc nofollow"" target=""_blank"">more user-friendly</a>, whereas GPT-4 is more adaptable and can handle more difficult tasks such as coding. Half of ChatGPT 3.5&rsquo;s size, this new model is&nbsp;<a href=""https://spectrum.ieee.org/llama-2-llm"" rel=""noopener ugc nofollow"" target=""_blank"">portable to smartphones</a> and, unlike LLaMa 1, fully fine-tuned for conversations.</p>
+<p>More importantly, Llama 2 is being released on an &ldquo;open source&rdquo; model, meaning that it&rsquo;s free for all research and commercial use &mdash; as long as any AI applications built upon it <a href=""https://fortune.com/2023/07/18/meta-llama-2-ai-open-source-700-million-mau/"" rel=""noopener ugc nofollow"" target=""_blank"">do not exceed 700 million monthly active users</a>, (a clear guardrail preventing other big tech companies from using it for free.) Given this limitation in the fine print of its licensing agreement, Llama 2 is <a href=""https://blog.opensource.org/metas-llama-2-license-is-not-open-source/"" rel=""noopener ugc nofollow"" target=""_blank"">technically not &rdquo;open source&rdquo;</a> in the purest sense of that term, but for the vast majority of developers tapping into this LLM courtesy of Meta, it is a free-to-use resource by all practical intent and purposes.</p>
+<p>While Llama is far from the only open source LLM available &mdash; <a href=""https://medium.datadriveninvestor.com/list-of-open-source-large-language-models-llms-4eac551bda2e"" rel=""noopener ugc nofollow"" target=""_blank"">check here</a> for a full list &mdash; it might very well be the most useful for AI developers. Developing an LLM can be an expensive endeavor, especially for AI training and fine-tuning with human feedback. The wide availability of Llama 2 could spur a lot more experimentation, without developers needing to pay OpenAI or Google for access to their respective LLM, thus undermining a key part of the current business models for the market leaders in the generative AI space. Of course, it&rsquo;d still cost a pretty penny to buy a slew of GPUs required to run Llama-based AI applications at scale, but that&rsquo;s nothing compared to the licensing fees that&nbsp;<a href=""https://openai.com/pricing"" rel=""noopener ugc nofollow"" target=""_blank"">OpenAI is charging</a> for access to its GPT-4 model.<br><br><br></p>
+<h1><strong>What This Mean for the AI Competitive Landscape</strong></h1>
+<p>The launch of Llama 2 is a significant event in the competitive landscape of generative AI. As the first major open-source LLM developed by a &ldquo;big tech&rdquo; firm, it could have a major impact on the way that generative AI models are developed and deployed.</p>
+<p>Up until now, the generative AI market has been dominated by closed-source models from companies like OpenAI and Google. While these models can be quite powerful, they are also very expensive to develop and maintain, which has made it difficult for smaller companies and independent developers to get involved in the field.</p>
+<p>In theory, Llama 2 alters this equation. It is a powerful LLM that is available to anyone to use, which means that smaller companies and independent developers can now compete with the big players in the field.</p>",,"[""73738f4d-4a59-4c91-8c1e-bcabf177eb9a""]",2023-07-29 15:25:10.375328+00,blog-44.jpeg,AI,What Is Llama 2 and what does it mean for the competitive landscape of generative AI.,"{""authnameor"":""Mark Zuckerberg"",""srcImg"":""avatar-f-1.png""}"
+2,a83da98f-e041-4093-b588-7490f3493f9a,The 5-Step Flow State Routine.,"<h1>The 5-Step Flow State Routine I Use Daily To Work 2+ Hours In Flow<br><br><br><span style=""font-size: 22px;"">&ldquo;During flow, mental and physical ability go through the roof, and the brain takes in more information per second.&rdquo;</span><br><br></h1>
+<article>
+    <div>
+        <div>
+            <section>
+                <div>
+                    <div>
+                        <div>
+                            <div>
+                                <p>Flow is a psychological and physiological state of peak performance.</p>
+                                <p>It&rsquo;s where we feel our best and perform at our best &mdash; both mentally and physically.</p>
+                                <p>A 10-year <a href=""https://www.mckinsey.com/business-functions/organization/our-insights/increasing-the-meaning-quotient-of-work"" rel=""noopener ugc nofollow"" target=""_blank"">McKinsey study</a> on flow and productivity found that top executives report a <strong>400% increase in performance</strong> during flow.</p>
+                                <p>In other words, if you work for two hours per day in a flow state, you&rsquo;ll get as much done as most people do in an average 8-hour workday.</p>
+                                <h1>Flow Is A State of Mental Peak Performance</h1>
+                                <p>Steven Kotler, an expert on flow states and author of The Art of Impossible, writes that during flow:</p>
+                                <blockquote>
+                                    <p>&ldquo;Mental and physical ability go through the roof, and the brain takes in more information per second, processing it more deeply.&rdquo;</p>
+                                </blockquote>
+                                <p>Recent <a href=""https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5855042/"" rel=""noopener ugc nofollow"" target=""_blank"">neuroscience</a> shows that during flow, our brainwave activity measurably changes we experience a powerful shift in neurochemistry.</p>
+                                <p>When in flow, a combination of norepinephrine, dopamine, endorphins, anandamide, serotonin, and &mdash; sometimes &mdash; oxytocin floods the system.</p>
+                                <p>This creates a potent <strong>neurochemical cocktail for peak performance</strong> and makes flow one of the most enjoyable and rewarding human states.</p>
+                                <p>As Mihaly Csikszentmihalyi, author of Flow and known as &lsquo;the father of flow, wrote:</p>
+                                <blockquote>
+                                    <p><em>&ldquo;The best moments in our lives are not the passive, receptive, relaxing times&hellip; The best moments usually occur if a person&rsquo;s body or mind is stretched to its limits in a voluntary effort to accomplish something difficult and worthwhile.&rdquo;</em></p>
+                                </blockquote>
+                                <p>But getting into a flow state (especially in today&rsquo;s distraction-overload world) can feel like a mystery to many of us.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </div>
+</article>
+<div>
+    <div><br></div>
+</div>",,"[""73738f4d-4a59-4c91-8c1e-bcabf177eb9a""]",2023-07-28 04:41:52.894459+00,blog-11.jpeg,Wildlife,"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do  eiusmod tempor incididunt ut labore et dolore magna aliqua.","{""srcImg"":""avatar-f-2.png"",""name"":""Arlene McCoy""}"
+7,73738f4d-4a59-4c91-8c1e-bcabf177eb9a,Top Node.js Tools for Production,"<p>Node.js has emerged as a favored option for developers seeking to create robust and scalable web applications. The 2022 StackOverflow developer survey confirmed this trend by ranking Node.js as the most widely adopted web framework among professional developers. This success can be attributed to its expansive ecosystem, which offers many tools and frameworks. Understanding and embracing this ecosystem is crucial for optimizing performance and streamlining the production process of any Node.js application.</p>
+
+<p>In this article, we will explore the top Node.js tools and frameworks for production to help you create the best Node.js applications.</p>
+
+<p>1. Helios Helios is a developer platform that aims to make the monitoring and troubleshooting of Node.js applications effortless, offering actionable insights. It utilizes OpenTelemetry&rsquo;s context propagation framework to deliver comprehensive visibility throughout various components like microservices, serverless functions, databases, and third-party APIs. You can experience the benefits of Helios at no cost by signing up here.</p>
+
+<p>Features of Helios Supports multiple languages, including Python, JavaScript, Node.js, Java, Ruby, .NET, Go, C++, and Collector. Provides a unified view of the data flow through your application. Exact workflow recreations for Lambda invocations. HTTP requests, Kafka, and RabbitMQ messages. Easy integrations with existing logs, tests, error monitoring, etc. Visualizations for complex data flow like serverless invocations, messaging queues, event streams, HTTP requests, and gRPC calls.</p>
+
+<p>2. Sentry Sentry is a powerful open-source tool designed to assist developers in identifying and resolving application issues effectively. It goes beyond error monitoring, offering features like profiling, integrations, session replay, performance monitoring, and code coverage report generation. With Sentry, you have a comprehensive toolkit to improve application reliability and streamline the debugging process.</p>
+
+<p>Features of Sentry Supports major programming languages and frameworks, including JavaScript, Python, Ruby, Node.js, Go, .Net, Andriod, and iOS. Real-time application monitoring. Supports customized queries. Data visualizations. End-to-end distributed tracing.</p>
+
+<p>3. Koa Koa is a lightweight and flexible web application framework designed explicitly for Node.js. Created by the same team responsible for Express.js, Koa prioritizes enhancing code readability and offering a sleek API for building web applications. Whether you&rsquo;re working on a small project or a large-scale application, Koa&rsquo;s lightweight nature and adaptable architecture make it an ideal choice. It is worth noting that Koa has garnered over 1 million weekly NPM downloads, highlighting its popularity among developers</p>
+
+<p>Features of Koa Improved middleware flow control. Async/await support for cleaner code. Easy error handling and request/response manipulation. High extensibility allows for adding custom functionality and integrations. 4. Express.js Express.js is a highly popular web application framework for Node.js, renowned for its simplicity and minimalist design. It offers developers a comprehensive range of features to construct web applications that are both scalable and efficient.</p>
+
+<p>One of the key strengths of Express.js is its remarkable performance and scalability. It boasts an efficient routing system that enables applications to manage numerous concurrent connections without compromising performance. It&rsquo;s worth noting that Express.js enjoys an impressive user base, with over 26 million weekly NPM downloads, further highlighting its widespread adoption and reliability</p>
+
+<p>Features of Express Minimalistic and unopinionated framework. A rich ecosystem with numerous middleware and extensions. Excellent routing and request-handling capabilities. Provides a streamlined approach to handling errors and exceptions. Offers a flexible routing system.</p>",,,2023-07-29 15:46:28.229875+00,blog-77.jpeg,NodeJS,"Helios, Sentry, AdonisJS, FeathersJS, and more, Tools I use for production apps.
+","{""srcImg"":""avatar-f-3.png"",""name"":""Diane Miles""}"
+1,a83da98f-e041-4093-b588-7490f3493f9a,Next.js 13.4: The Game-Changer,"<div class=""text-2xl text-900 mb-4 font-semibold"" style='box-sizing: border-box; color: var(--surface-900) !important; font-weight: 600 !important; font-size: 1.5rem !important; margin-bottom: 1.5rem !important; font-family: -apple-system, ""system-ui"", ""Segoe UI"", Roboto, Helvetica, Arial, sans-serif, ""Apple Color Emoji"", ""Segoe UI Emoji"", ""Segoe UI Symbol""; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;'>Sodales massa, morbi convallis</div>
+<p class=""line-height-3 text-lg mb-4"" style='box-sizing: border-box; margin-top: 0px; margin-right: 0px; margin-bottom: 1.5rem !important; margin-left: 0px; line-height: 1.5 !important; font-size: 1.125rem !important; color: rgb(73, 80, 87); font-family: -apple-system, ""system-ui"", ""Segoe UI"", Roboto, Helvetica, Arial, sans-serif, ""Apple Color Emoji"", ""Segoe UI Emoji"", ""Segoe UI Symbol""; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;'>First, a disclaimer - the entire process of writing a blog post often takes more than a couple of hours, even if you can type eighty words per minute and your writing skills are sharp. From the seed of the idea to finally hitting &ldquo;Publish,&rdquo; you might spend several days or maybe even a week &ldquo;writing&rdquo; a blog post, but it&lsquo;s important to spend those vital hours planning your post and even thinking about Your Post(yes, thinking counts as working if you&lsquo;re a blogger) before you actually write it.</p>
+<p class=""line-height-3 text-lg mb-4"" style='box-sizing: border-box; margin-top: 0px; margin-right: 0px; margin-bottom: 1.5rem !important; margin-left: 0px; line-height: 1.5 !important; font-size: 1.125rem !important; color: rgb(73, 80, 87); font-family: -apple-system, ""system-ui"", ""Segoe UI"", Roboto, Helvetica, Arial, sans-serif, ""Apple Color Emoji"", ""Segoe UI Emoji"", ""Segoe UI Symbol""; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;'>There&lsquo;s an old maxim that states, &ldquo;No fun for the writer, no fun for the reader.&rdquo;No matter what industry you&lsquo;re working in, as a blogger, you should live and die by this statement.</p>
+<p class=""line-height-3 text-lg mb-4"" style='box-sizing: border-box; margin-top: 0px; margin-right: 0px; margin-bottom: 1.5rem !important; margin-left: 0px; line-height: 1.5 !important; font-size: 1.125rem !important; color: rgb(73, 80, 87); font-family: -apple-system, ""system-ui"", ""Segoe UI"", Roboto, Helvetica, Arial, sans-serif, ""Apple Color Emoji"", ""Segoe UI Emoji"", ""Segoe UI Symbol""; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;'>Before you do any of the following steps, be sure to pick a topic that actually interests you. Nothing - and I mean NOTHING- will kill a blog post more effectively than a lack of enthusiasm from the writer. You can tell when a writer is bored by their subject, and it&lsquo;s so cringe-worthy it&lsquo;s a little embarrassing.</p>
+<p class=""line-height-3 text-lg mb-4"" style='box-sizing: border-box; margin-top: 0px; margin-right: 0px; margin-bottom: 1.5rem !important; margin-left: 0px; line-height: 1.5 !important; font-size: 1.125rem !important; color: rgb(73, 80, 87); font-family: -apple-system, ""system-ui"", ""Segoe UI"", Roboto, Helvetica, Arial, sans-serif, ""Apple Color Emoji"", ""Segoe UI Emoji"", ""Segoe UI Symbol""; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;'>I can hear your objections already. &ldquo;But Dan, I have to blog for a cardboard box manufacturing company.&rdquo; I feel your pain, I really do. During the course of my career, I&lsquo;ve written content for dozens of clients in some less-than-thrilling industries (such as financial regulatory compliance and corporate housing), but the hallmark of a professional blogger is the ability to write well about any topic, no matter how dry it may be. Blogging is a lot easier, however, if you can muster at least a little enthusiasm for the topic at hand.</p>
+<div class=""text-2xl text-900 mb-4 font-semibold"" style='box-sizing: border-box; color: var(--surface-900) !important; font-weight: 600 !important; font-size: 1.5rem !important; margin-bottom: 1.5rem !important; font-family: -apple-system, ""system-ui"", ""Segoe UI"", Roboto, Helvetica, Arial, sans-serif, ""Apple Color Emoji"", ""Segoe UI Emoji"", ""Segoe UI Symbol""; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;'>Commodo ultrices orci tempus et fermentum, pellentesque ultricies.</div>
+<ul class=""text-xl p-0 my-0 ml-5"" style='box-sizing: border-box; font-size: 1.25rem !important; padding: 0rem !important; margin-left: 2rem !important; margin-top: 0rem !important; margin-bottom: 0rem !important; color: rgb(73, 80, 87); font-family: -apple-system, ""system-ui"", ""Segoe UI"", Roboto, Helvetica, Arial, sans-serif, ""Apple Color Emoji"", ""Segoe UI Emoji"", ""Segoe UI Symbol""; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;'>
+    <li class=""mb-3 line-height-3"" style=""box-sizing: border-box; line-height: 1.5 !important; margin-bottom: 1rem !important;"">Fermentum neque odio laoreet morbi sit. Venenatis in quam ut non.</li>
+    <li class=""mb-3 line-height-3"" style=""box-sizing: border-box; line-height: 1.5 !important; margin-bottom: 1rem !important;"">Enim in porta facilisi a vulputate fermentum, morbi. Consequat, id praesent tristique euismod pellentesque.</li>
+    <li class=""mb-3 line-height-3"" style=""box-sizing: border-box; line-height: 1.5 !important; margin-bottom: 1rem !important;"">Implements This is an external link</li>
+    <li class=""line-height-3"" style=""box-sizing: border-box; line-height: 1.5 !important;"">Scelerisque ultricies tincidunt lectus faucibus non morbi sed nibh varius. Quam a, habitasse egestaseleifend.</li>
+</ul>",,"[""a83da98f-e041-4093-b588-7490f3493f9a"",""cc1c42db-59e1-4cab-9fca-16e42b759c42"",""73738f4d-4a59-4c91-8c1e-bcabf177eb9a""]",2023-07-28 04:40:42+00,blog-33.jpeg,Crime,"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do  eiusmod tempor incididunt ut labore et dolore magna aliqua.","{""srcImg"":""avatar-f-3.png"",""name"":""Diane Miles""}"
+3,a83da98f-e041-4093-b588-7490f3493f9a,The Million-Dollar Mistake,"<h1 class=""pw-post-title fv fw fx be fy fz ga gb gc gd ge gf gg gh gi gj gk gl gm gn go gp gq gr gs gt bj"" data-selectable-paragraph="""" style='box-sizing: inherit; margin: 0px 0px 32px; font-family: sohne, ""Helvetica Neue"", Helvetica, Arial, sans-serif; color: rgb(36, 36, 36); line-height: 52px; letter-spacing: -0.011em; font-style: normal; font-weight: 700; font-size: 42px; font-variant-ligatures: normal; font-variant-caps: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;'><strong class=""al"" style=""box-sizing: inherit; font-weight: inherit;"">Microservices: The Million-Dollar Mistake Your Company is Making</strong></h1>
+<p class=""pw-post-body-paragraph lx ly fx lz b ma mb mc md me mf mg mh mi mj mk ml mm mn mo mp mq mr ms mt mu fq bj"" data-selectable-paragraph="""" style='box-sizing: inherit; margin: 2em 0px -0.46em; font-weight: 400; color: rgb(36, 36, 36); word-break: break-word; font-style: normal; line-height: 32px; letter-spacing: -0.003em; font-family: source-serif-pro, Georgia, Cambria, ""Times New Roman"", Times, serif; font-size: 20px; font-variant-ligatures: normal; font-variant-caps: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;'>In the middle of the last decade, as I was elbow-deep in code, tinkering with concepts like service discovery, a buzzword began to echo through the halls of tech companies worldwide &mdash; &ldquo;microservices&rdquo;. I was there at the dawn, championing the concept, speaking at conferences, and guiding clients on the fascinating journey towards this promising architecture. At that time, Kubernetes was barely a whisper on the wind. However, my perspective today in 2023 differs drastically from the optimism of those initial years.</p>
+<figure class=""my mz na nb nc nd mv mw paragraph-image"" style='box-sizing: inherit; margin: 56px auto 0px; clear: both; color: rgba(0, 0, 0, 0.8); font-family: medium-content-sans-serif-font, -apple-system, ""system-ui"", ""Segoe UI"", Roboto, Oxygen, Ubuntu, Cantarell, ""Open Sans"", ""Helvetica Neue"", sans-serif; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;'>
+    <div tabindex=""0"" class=""ne nf eb ng bg nh"" style=""box-sizing: inherit;  position: relative; cursor: zoom-in; z-index: auto; transition: transform 300ms cubic-bezier(0.2, 0, 0.2, 1) 0s;"">
+        <div class=""l"" style=""box-sizing: inherit; display: block;"">
+            <div class=""l"" style=""box-sizing: inherit; display: block;"">
+                <section style=""box-sizing: inherit;"">
+                    <div style=""box-sizing: inherit;"">
+                        <div class=""fq fr fs ft fu"" style=""box-sizing: inherit; word-break: break-word; overflow-wrap: break-word;"">
+                            <div class=""ab ca"" style=""box-sizing: inherit; display: flex; justify-content: center;"">
+                                <div class=""ch bg eu ev ew ex"" style=""box-sizing: inherit; width: 680px; min-width: 0px; margin: 0px 24px; max-width: 680px;"">
+                                    <p class=""pw-post-body-paragraph lx ly fx lz b ma mb mc md me mf mg mh mi mj mk ml mm mn mo mp mq mr ms mt mu fq bj"" data-selectable-paragraph="""" style='box-sizing: inherit; margin: 2em 0px -0.46em; font-weight: 400; color: rgb(36, 36, 36); word-break: break-word; font-style: normal; line-height: 32px; letter-spacing: -0.003em; font-family: source-serif-pro, Georgia, Cambria, ""Times New Roman"", Times, serif; font-size: 20px;'>The dream sold by the microservices architecture was enticing &mdash; a utopian vision of independent teams, unhindered by technology or deployment constraints, delivering value rapidly and independently. But the real world, as it tends to do, had different plans.</p>
+                                    <p class=""pw-post-body-paragraph lx ly fx lz b ma mb mc md me mf mg mh mi mj mk ml mm mn mo mp mq mr ms mt mu fq bj"" data-selectable-paragraph="""" style='box-sizing: inherit; margin: 2em 0px -0.46em; font-weight: 400; color: rgb(36, 36, 36); word-break: break-word; font-style: normal; line-height: 32px; letter-spacing: -0.003em; font-family: source-serif-pro, Georgia, Cambria, ""Times New Roman"", Times, serif; font-size: 20px;'>Microservices are not a one-size-fits-all solution. Far from it. I&rsquo;ve observed that they serve as the perfect solution very seldom. This statement might jar with the prevailing narrative, but let&rsquo;s venture deeper to understand why.</p>
+                                    <p class=""pw-post-body-paragraph lx ly fx lz b ma mb mc md me mf mg mh mi mj mk ml mm mn mo mp mq mr ms mt mu fq bj"" data-selectable-paragraph="""" style='box-sizing: inherit; margin: 2em 0px -0.46em; font-weight: 400; color: rgb(36, 36, 36); word-break: break-word; font-style: normal; line-height: 32px; letter-spacing: -0.003em; font-family: source-serif-pro, Georgia, Cambria, ""Times New Roman"", Times, serif; font-size: 20px;'>Firstly, the adoption of microservices necessitates a substantial investment in infrastructure. Companies often underestimate the toll this takes, not just financially, but also in terms of time and human resources. To maintain the delicate balance that a microservices architecture demands, one must pour immense resources into developing and sustaining a sophisticated DevOps setup.</p>
+                                    <p class=""pw-post-body-paragraph lx ly fx lz b ma mb mc md me mf mg mh mi mj mk ml mm mn mo mp mq mr ms mt mu fq bj"" data-selectable-paragraph="""" style='box-sizing: inherit; margin: 2em 0px -0.46em; font-weight: 400; color: rgb(36, 36, 36); word-break: break-word; font-style: normal; line-height: 32px; letter-spacing: -0.003em; font-family: source-serif-pro, Georgia, Cambria, ""Times New Roman"", Times, serif; font-size: 20px;'>This leads me to another often misunderstood concept &mdash; the DevOps culture. In an ideal world, DevOps is more than just a fancy term; it represents a cultural shift where developers and operations collaborate seamlessly. However, in many enterprises I&rsquo;ve observed, they&rsquo;re doing it wrong. They create separate &ldquo;DevOps&rdquo; squads or teams to manage Kubernetes clusters, centralized CI/CD pipelines, infrastructure, and automation. The outcome? Developers find themselves working in a ready-to-use yet restrictive environment, far from the promised autonomy of the microservices approach.</p>
+                                    <p class=""pw-post-body-paragraph lx ly fx lz b ma mb mc md me mf mg mh mi mj mk ml mm mn mo mp mq mr ms mt mu fq bj"" data-selectable-paragraph="""" style='box-sizing: inherit; margin: 2em 0px -0.46em; font-weight: 400; color: rgb(36, 36, 36); word-break: break-word; font-style: normal; line-height: 32px; letter-spacing: -0.003em; font-family: source-serif-pro, Georgia, Cambria, ""Times New Roman"", Times, serif; font-size: 20px;'>In this configuration, the gap between developers and operations persists, albeit disguised under a trendy name. The supposed transformation from an operations unit to a DevOps team appears more cosmetic than substantive. Despite the inclusion of Infrastructure as Code&hellip;</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </div>
+    <div class=""ab ca"" style='box-sizing: inherit; display: flex; justify-content: center; color: rgba(0, 0, 0, 0.8); font-family: medium-content-sans-serif-font, -apple-system, ""system-ui"", ""Segoe UI"", Roboto, Oxygen, Ubuntu, Cantarell, ""Open Sans"", ""Helvetica Neue"", sans-serif; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;'>
+        <div class=""ch bg eu ev ew ex"" style=""box-sizing: inherit; width: 680px; min-width: 0px; margin: 0px 24px; max-width: 680px;""><br class=""Apple-interchange-newline""></div>
+    </div>
+</figure>",,"[""73738f4d-4a59-4c91-8c1e-bcabf177eb9a""]",2023-07-28 04:45:17.770702+00,blog-22.jpeg,Marine,"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do  eiusmod tempor incididunt ut labore et dolore magna aliqua.","{""srcImg"":""avatar-f-1.png"",""name"":""Anna Lane""}"
+6,a83da98f-e041-4093-b588-7490f3493f9a,Bye-bye useState & useEffect: Revolutionizing React Development!,"<article>
+    <div>
+        <div>
+            <section>
+                <div>
+                    <div>
+                        <div>
+                            <div>
+                                <p>Many developers continue to use the useState and useEffect hooks to update states, but I have not been fond of this approach. The issue is that it causes the component to mount, remount, and unmount simultaneously, leading to unexpected behavior. As a result, when logging something into the console, you may see the result repeated three times.</p>
+                                <h1>Introducing the useLoaderData Hook:</h1>
+                                <p>The <code>useLoaderData</code> hook is a custom hook in React that helps you load data into your component. It simplifies the process of fetching data from an API or performing any asynchronous operation.</p>
+                                <p><mark>When you use the&nbsp;</mark><mark><code>useLoaderData</code></mark><mark>&nbsp;hook, you provide it with a function that returns a Promise. This Promise represents an asynchronous operation that will fetch the data you need. Once the Promise resolves, the data becomes available to your component.</mark></p>
+                                <p>The <code>useLoaderData</code> hook handles the loading state for you, so you don&apos;t need to manually track whether the data is still loading or if it has finished loading. It provides you with a convenient way to access the data and also handles any potential errors that might occur during the data loading process.</p>
+                                <p>By using the <code>useLoaderData</code> hook, you can keep your component code clean and organized, separating the data-loading logic from the rest of your component&apos;s responsibilities. It allows you to easily fetch and manage data in a more beginner-friendly way.</p>
+                                <h1>Why the useLoaderHook?</h1>
+                                <p>The useLoaderHook from react-router helps achieve the same functionality with minimal effort. These are some examples of why you should use it.</p>
+                                <ul>
+                                    <li><strong>Loading state management</strong>: Loaders handle the loading state for you, providing a clear indication of when data is being fetched. This helps you manage loading spinners, progress indicators, or any other UI elements related to data loading.</li>
+                                    <li><strong>Error handling</strong>: Loaders often include error handling mechanisms, allowing you to handle and display errors that occur during the data loading process. They provide a standardized way to handle errors, making it easier to implement consistent error handling across your application.</li>
+                                    <li><strong>Separation of concerns</strong>: Loaders allow you to separate the data loading logic from other aspects of your component. This promotes better code organization and maintainability, as you can focus on specific responsibilities without mixing them.</li>
+                                </ul>
+                                <p>And lots more.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </div>
+</article>
+<div><br><br></div>
+<h1>Exploring the Loader functions:</h1>
+<p>As we now have a bit of an understanding of how we can set up our application to use the Loader API, let&rsquo;s see how we can use the API.</p>
+<p>Say you intend to fetch data from an endpoint andto be displayed on the&nbsp;<code>homeComponent</code>. What most developers would do is: initialize a state and update the state in the&nbsp;<strong>useEffect&nbsp;</strong>hook. The snippet below provides a clear illustration of what I am talking about.</p>
+<pre>import { useState } from &apos;react&apos;
+
+const HomeComponent = () =&gt; {
+    const [data, setData] = useState([]);
+    
+    useEffect(async () =&gt; {
+        const request = await fetch(&apos;http://localhost:3004/file&apos;);
+         if(!request.ok) throw new Error(&apos;Failed to fetch data&apos;)
+        const item= await request.json()
+        setData(item)  
+    }, [])
+
+    return (
+        &lt;section&gt;
+            { data.length &gt; 0 ? data.map((foundData) =&gt; (
+                    &lt;div key={foundData.id}&gt;
+                        &lt;strong&gt;{foundData.name}&lt;/strong&gt;
+                     &lt;/div&gt;
+                 )) : &lt;p&gt;Data currently unavailable&lt;/p&gt;}
+        &lt;/section&gt;
+    )
+}
+export default HomeComponent</pre>
+<p>This is a tonne of lines as we might want to simplify this a bit and maybe reuse the same function.</p>
+<p>To use&nbsp;<strong>Loaders</strong>, you have to define a&nbsp;<strong>loader&nbsp;</strong>function. Loader functions are like&nbsp;<strong>Custom Hooks</strong>.<br>Besides, the naming convention of the function doesn&rsquo;t matter as you can call it anything. In the code snippet below, I will create a basic loader function that fetches data from an API like I showed in the snipppet above</p>
+<pre>export async function LoaderFunction () {
+    const request = await fetch(&apos;http://localhost:3004/file&apos;);
+    if (!request.ok) throw new Error (&apos;Failed to fetch item&apos;)
+    const item = await  response.json();
+    return item;
+};</pre>
+<p>Now, we have to import the loader function to component where our routes are being handled. After setting up your route system using the&nbsp;<code>createBrowserRouter</code> and&nbsp;<code>createRouteFromElements</code> you should have access to a prop called&nbsp;<code>loader</code>. There you should pass in the&nbsp;<code>LoaderFunction</code> you created as the value.<br>In the code snippet below provides a clear illustration of this.</p>
+<pre>import { 
+createBrowserRouter,
+createRoutesFromElements,
+RouterProvider,
+Route, 
+Outlet
+ } from &quot;react-router-dom&quot;
+import HomeComponent from &quot;./home&quot;
+import AboutComponent from &quot;./about&quot;
+import { LoaderFunction as HomeLoader} from &quot;./loader&quot;
+
+function App() {
+    const browserRoutes = createBrowserRouter(createRoutesFromElements(
+       &lt;Route path=&apos;/&apos; element={&lt;Outlet /&gt;}&gt;
+                &lt;Route index element={&lt;HomeComponent /&gt; }
+                     loader={HomeLoader}/&gt;
+                &lt;Route path=&apos;about&apos; element={&lt;AboutComponent /&gt; } /&gt;
+        &lt;/Route&gt;
+    ))
+
+     return (
+        &lt;RouterProvider router={browserRoutes} /&gt;
+    );
+}</pre>
+<p>After that, We can access the data returned by the loader function using the&nbsp;<strong>useLoaderData&nbsp;</strong>Hook from react-router in the HomeComponent.<br>The code snippet below best explains what just read.</p>
+<pre>import { useLoaderData } from &quot;react-router-dom&quot;
+
+const HomeComponent = () =&gt; {
+    const data = useLoaderData();
+
+    return (
+        &lt;section&gt;
+            {data.map((foundData) =&gt; (
+                    &lt;div key={foundData.id}&gt;
+                         &lt;strong&gt;{foundData.name}&lt;/strong&gt; 
+                    &lt;/div&gt; 
+            ))}
+        &lt;/section&gt;
+    )
+}
+export default HomeComponent</pre>
+<p><strong>Wow! 😲..</strong><br>Now see how we have just cleaned up the HomeComponent :)<br>Noticed we got rid of the guard clause that checks if the data is null.<br>This is because react-router makes it load the data as soon as the url/path is active. So, it Makes the necessary requests even before the&nbsp;<strong>Component is Mounted</strong>. Yes!</p>
+<p>We are only making provisions for the happy path. What if we pass a non-existing endpoint? If that&rsquo;s the case, don&rsquo;t panic as react-router also allow us to pass components to another prop called&nbsp;<code>errorElement</code> .<br>This is specifically for Errors just as we use&nbsp;<code>ErrorBoundaries</code>. Let&apos;s see how this works in the snippet below</p>","[""2c58a5f0-9365-4cd8-ba82-355ad6168089""]","[""73738f4d-4a59-4c91-8c1e-bcabf177eb9a""]",2023-07-29 15:30:47.358381+00,blog-66.jpeg,React,"Many developers continue to use the useState and useEffect hooks to update states, but I have not been fond of this approach. ","{""srcImg"":""avatar-f-1.png"",""name"":""Brush Lee""}"
+5,a83da98f-e041-4093-b588-7490f3493f9a,The 5 paid subscriptions I actually use in 2023 as a software engineer,"<article>
+    <div>
+        <div>
+            <section>
+                <div>
+                    <div>
+                        <div>
+                            <div>
+                                <p>I care&nbsp;<em>a lot</em> about the tools I use. Especially when they aren&rsquo;t free.</p>
+                                <p>Some tools are too good to keep to myself. I have to share them! Here&rsquo;s what I&rsquo;ve spent my money on in 2022&ndash;23 that has genuinely improved my life as a software engineer.</p>
+                                <p><em>Please note: None of the links in this article are affiliate links.</em></p>
+                                <h1>1. GitHub Copilot: an AI pair programmer</h1>
+                                <p>When I&rsquo;m writing code, Copilot works in the background by reading what I&rsquo;ve written and quietly suggesting what I might want to write next.</p>
+                                <p>Copilot has improved my productivity by at least 30%.</p>
+                                <figure>
+                                    <div tabindex=""0"">
+                                        <div>
+                                            <source srcset=""https://miro.medium.com/v2/resize:fit:640/format:webp/1*pB-JOp4O5Q1jUj3YX4ca8w.png 640w, https://miro.medium.com/v2/resize:fit:720/format:webp/1*pB-JOp4O5Q1jUj3YX4ca8w.png 720w, https://miro.medium.com/v2/resize:fit:750/format:webp/1*pB-JOp4O5Q1jUj3YX4ca8w.png 750w, https://miro.medium.com/v2/resize:fit:786/format:webp/1*pB-JOp4O5Q1jUj3YX4ca8w.png 786w, https://miro.medium.com/v2/resize:fit:828/format:webp/1*pB-JOp4O5Q1jUj3YX4ca8w.png 828w, https://miro.medium.com/v2/resize:fit:1100/format:webp/1*pB-JOp4O5Q1jUj3YX4ca8w.png 1100w, https://miro.medium.com/v2/resize:fit:1400/format:webp/1*pB-JOp4O5Q1jUj3YX4ca8w.png 1400w"" sizes=""(min-resolution: 4dppx) and (max-width: 700px) 50vw, (-webkit-min-device-pixel-ratio: 4) and (max-width: 700px) 50vw, (min-resolution: 3dppx) and (max-width: 700px) 67vw, (-webkit-min-device-pixel-ratio: 3) and (max-width: 700px) 65vw, (min-resolution: 2.5dppx) and (max-width: 700px) 80vw, (-webkit-min-device-pixel-ratio: 2.5) and (max-width: 700px) 80vw, (min-resolution: 2dppx) and (max-width: 700px) 100vw, (-webkit-min-device-pixel-ratio: 2) and (max-width: 700px) 100vw, 700px"" type=""image/webp"">
+                                            <source srcset=""https://miro.medium.com/v2/resize:fit:640/1*pB-JOp4O5Q1jUj3YX4ca8w.png 640w, https://miro.medium.com/v2/resize:fit:720/1*pB-JOp4O5Q1jUj3YX4ca8w.png 720w, https://miro.medium.com/v2/resize:fit:750/1*pB-JOp4O5Q1jUj3YX4ca8w.png 750w, https://miro.medium.com/v2/resize:fit:786/1*pB-JOp4O5Q1jUj3YX4ca8w.png 786w, https://miro.medium.com/v2/resize:fit:828/1*pB-JOp4O5Q1jUj3YX4ca8w.png 828w, https://miro.medium.com/v2/resize:fit:1100/1*pB-JOp4O5Q1jUj3YX4ca8w.png 1100w, https://miro.medium.com/v2/resize:fit:1400/1*pB-JOp4O5Q1jUj3YX4ca8w.png 1400w"" sizes=""(min-resolution: 4dppx) and (max-width: 700px) 50vw, (-webkit-min-device-pixel-ratio: 4) and (max-width: 700px) 50vw, (min-resolution: 3dppx) and (max-width: 700px) 67vw, (-webkit-min-device-pixel-ratio: 3) and (max-width: 700px) 65vw, (min-resolution: 2.5dppx) and (max-width: 700px) 80vw, (-webkit-min-device-pixel-ratio: 2.5) and (max-width: 700px) 80vw, (min-resolution: 2dppx) and (max-width: 700px) 100vw, (-webkit-min-device-pixel-ratio: 2) and (max-width: 700px) 100vw, 700px""><img alt="""" width=""700"" height=""386"" src=""https://miro.medium.com/v2/resize:fit:630/1*pB-JOp4O5Q1jUj3YX4ca8w.png""></div>
+                                    </div>
+                                    <figcaption>GitHub Copilot code suggestions</figcaption>
+                                </figure>
+                                <p>My biggest productivity improvements have come from:</p>
+                                <ul>
+                                    <li><em>Writing test cases.</em> Most of the time I write the name for the test case and Copilot fills out everything else.</li>
+                                    <li><em>Small things I would have to look up.</em> e.g. Instead of searching for the correct RegEx to parse a string, I write a comment explaining what I want the RegEx to do and Copilot writes the RegEx for me.</li>
+                                </ul>
+                                <p><a href=""https://github.com/features/copilot"" rel=""noopener ugc nofollow"" target=""_blank"">Learn more about GitHub Copilot.</a></p>
+                                <h1>2. Kagi: a better search engine than Google</h1>
+                                <p>I measure the effectiveness of searches by how long it takes me to find what I was actually looking for. By that measure, Google has been steadily getting worse.</p>
+                                <p>When I search for something on Kagi, the correct result is in the first 2 links 95% of the time. It&rsquo;s in the top 5 links 99% of the time. That just doesn&rsquo;t happen with Google, Bing, etc.</p>
+                                <p>The consistently great results page is further boosted by the search personalization I control. I&rsquo;ve told Kagi that any results from Stack Overflow or Medium should be weighted higher, as well as blocked other sites I don&rsquo;t care to see results from.</p>
+                                <p><a href=""https://kagi.com/"" rel=""noopener ugc nofollow"" target=""_blank"">Learn more about Kagi.</a></p>
+                                <h1>3. Midjourney: AI-generated images</h1>
+                                <p>As a back-end software engineer, I rarely have to deal with creating or editing images (besides diagrams &mdash; for that there&rsquo;s&nbsp;<a href=""https://medium.com/geekculture/the-5-paid-subscriptions-i-actually-use-in-2023-as-a-software-engineer-9418515a315a#de80"" rel=""noopener ugc nofollow"">Excalidraw</a>). But lately&hellip;</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </div>
+</article>
+<div>
+    <div><br></div>
+</div>","[""2c58a5f0-9365-4cd8-ba82-355ad6168089""]","[""cc1c42db-59e1-4cab-9fca-16e42b759c42"",""73738f4d-4a59-4c91-8c1e-bcabf177eb9a""]",2023-07-29 15:28:10.055532+00,blog-55.jpeg,AI,"Tools I use that are cheaper than Netflix, check this out for more of this stuff.","{""name"":""Kamil Dujabh"",""srcImg"":""avatar-f-1.png""}"
